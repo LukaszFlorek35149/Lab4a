@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Główny Urząd Statystyczny</title>
+		<link>https://stat.gov.pl/</link>
+		<description>Główny Urząd Statystyczny - Portal Statystyki Publicznej</description>
+		<image>
+			<title>Główny Urząd Statystyczny</title>
+			<url>https://stat.gov.pl/szablony/portalinformacyjny/images/logo_normal.gif</url>
+			<link>https://stat.gov.pl/</link>
+		</image>
+		<atom:link href="https://stat.gov.pl/rss/pl/portalinformacyjny.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title><![CDATA[Infografika - Dzień Matki 26 maja]]></title>
+			<pubDate><![CDATA[Wed, 26 May 2021 10:03:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-dzien-matki-26-maja,112,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-dzien-matki-26-maja,112,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/112/1/1/dzien_matki_2021-01.png" type="image/png" width="1024" height="2272">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/112/1/1/dzien_matki_2021-01,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/112/1/1/dzien_matki_2021-01,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Biuletyn Statystyczny Nr 4/2021]]></title>
+			<pubDate><![CDATA[Wed, 26 May 2021 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/inne-opracowania/informacje-o-sytuacji-spoleczno-gospodarczej/biuletyn-statystyczny-nr-42021,4,111.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/inne-opracowania/informacje-o-sytuacji-spoleczno-gospodarczej/biuletyn-statystyczny-nr-42021,4,111.html</guid>
+			<category>Publikacja</category>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5498/4/111/1/gus_biuletyn_2021_04.png" type="image/png" width="451" height="582">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5498/4/111/1/gus_biuletyn_2021_04,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5498/4/111/1/gus_biuletyn_2021_04,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>Podstawowe dane i wskaźniki charakteryzujące sytuację społeczno-gospodarczą kraju, prezentowane w postaci szeregów danych - miesięcznych, kwartalnych i rocznych - z zakresu m.in. rachunków narodowych, demografii, rynku pracy i wynagrodzeń, świadczeń społecznych, cen, podstawowych obszarów gospodarki narodowej (rolnictwo, przemysł, budownictwo, rynek wewnętrzny, transport) i handlu zagranicznego, a także podaży pieniądza, finansów publicznych, wyników finansowych przedsiębiorstw niefinansowych oraz nakładów inwestycyjnych.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Produkcja ważniejszych wyrobów przemysłowych w kwietniu 2021 roku]]></title>
+			<pubDate><![CDATA[Wed, 26 May 2021 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/przemysl-budownictwo-srodki-trwale/przemysl/produkcja-wazniejszych-wyrobow-przemyslowych-w-kwietniu-2021-roku,2,109.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/przemysl-budownictwo-srodki-trwale/przemysl/produkcja-wazniejszych-wyrobow-przemyslowych-w-kwietniu-2021-roku,2,109.html</guid>
+			<category>Publikacja</category>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5477/2/109/1/przechwytywanie.png" type="image/png" width="516" height="667">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5477/2/109/1/przechwytywanie,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5477/2/109/1/przechwytywanie,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>Podstawowe informacje prezentujące ilość produkcji ważniejszych wyrobów przemysłowych wytwarzanych przez przedsiębiorstwa produkcyjne, w których liczba pracujących wynosi 50 i więcej osób. Informacje prezentowane co miesiąc dotyczą produkcji wyrobów gotowych przeznaczonych na sprzedaż, jak również do dalszego przerobu wewnątrz przedsiębiorstwa, wytwarzanych z surowca własnego i powierzonego.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Sytuacja społeczno-gospodarcza kraju w kwietniu 2021 r.]]></title>
+			<pubDate><![CDATA[Wed, 26 May 2021 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/inne-opracowania/informacje-o-sytuacji-spoleczno-gospodarczej/sytuacja-spoleczno-gospodarcza-kraju-w-kwietniu-2021-r-,1,108.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/inne-opracowania/informacje-o-sytuacji-spoleczno-gospodarczej/sytuacja-spoleczno-gospodarcza-kraju-w-kwietniu-2021-r-,1,108.html</guid>
+			<category>Publikacja</category>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5498/1/108/1/przechwytywanie.jpg" type="image/jpeg" width="530" height="694">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5498/1/108/1/przechwytywanie,k1uUwl-caFOE6tCTiHtf.jpg" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5498/1/108/1/przechwytywanie,k1uUwl-caFOE6tCTiHtf.jpg" alt="" width="280" height="212"/></div>Krótkookresowa analiza zjawisk i procesów zachodzących m.in. w obszarze rynku pracy i wynagrodzeń, cen, podstawowych obszarów gospodarki narodowej (rolnictwo, przemysł, budownictwo, rynek wewnętrzny), transportu oraz handlu zagranicznego, a także sytuacji w wybranych krajach świata.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Bezrobotni zarejestrowani i stopa bezrobocia. Stan w końcu kwietnia 2021 r.]]></title>
+			<pubDate><![CDATA[Wed, 26 May 2021 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/rynek-pracy/bezrobocie-rejestrowane/bezrobotni-zarejestrowani-i-stopa-bezrobocia-stan-w-koncu-kwietnia-2021-r-,2,105.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/rynek-pracy/bezrobocie-rejestrowane/bezrobotni-zarejestrowani-i-stopa-bezrobocia-stan-w-koncu-kwietnia-2021-r-,2,105.html</guid>
+			<category>Tablica</category>
+			<description><![CDATA[Informacja o liczbie bezrobotnych zarejestrowanych oraz stopa bezrobocia według makroregionu, regionu i podregionu według stanu w końcu kwietnia 2021 r.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Produkcja wyrobów przemysłowych związanych z zapobieganiem rozprzestrzeniania się / zwalczaniem COVID-19  w kwietniu 2021 r.]]></title>
+			<pubDate><![CDATA[Wed, 26 May 2021 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/przemysl-budownictwo-srodki-trwale/przemysl/produkcja-wyrobow-przemyslowych-zwiazanych-z-zapobieganiem-rozprzestrzeniania-sie-zwalczaniem-covid-19-w-kwietniu-2021-r-,15,13.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/przemysl-budownictwo-srodki-trwale/przemysl/produkcja-wyrobow-przemyslowych-zwiazanych-z-zapobieganiem-rozprzestrzeniania-sie-zwalczaniem-covid-19-w-kwietniu-2021-r-,15,13.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[W kwietniu 2021 r. podmioty gospodarcze uczestniczące w miesięcznym badaniu produkcji wyrobów przemysłowych o liczbie pracujących 50 i więcej osób sprawozdały, że wyprodukowały 13 130 095 sztuk maseczek ochronnych stosowanych w medycynie oraz 6 807 206 sztuk maseczek ochronnych pozostałych.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Wyrównania sezonowe - Bezrobotni zarejestrowani i stopa bezrobocia w latach 2011-2021]]></title>
+			<pubDate><![CDATA[Wed, 26 May 2021 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/rynek-pracy/bezrobocie-rejestrowane/wyrownania-sezonowe-bezrobotni-zarejestrowani-i-stopa-bezrobocia-w-latach-2011-2021,5,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/rynek-pracy/bezrobocie-rejestrowane/wyrownania-sezonowe-bezrobotni-zarejestrowani-i-stopa-bezrobocia-w-latach-2011-2021,5,1.html</guid>
+			<category>Tablica</category>
+			<description><![CDATA[Liczba bezrobotnych zarejestrowanych wyrównana sezonowo w latach 2011-2021 oraz stopa bezrobocia rejestrowanego wyrównana sezonowo w latach 2011-2021.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Koniunktura gospodarcza w maju 2021r.]]></title>
+			<pubDate><![CDATA[Tue, 25 May 2021 12:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-maju-2021r-,105,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-maju-2021r-,105,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/105/1/1/infogfrafika_koniunktura_gospodarcza_05_2021.png" type="image/png" width="2362" height="4548">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/105/1/1/infogfrafika_koniunktura_gospodarcza_05_2021,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/105/1/1/infogfrafika_koniunktura_gospodarcza_05_2021,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Koniunktura w przetwórstwie przemysłowym, budownictwie, handlu i usługach 2000-2021 (maj 2021)]]></title>
+			<pubDate><![CDATA[Tue, 25 May 2021 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/koniunktura/koniunktura/koniunktura-w-przetworstwie-przemyslowym-budownictwie-handlu-i-uslugach-2000-2021-maj-2021,4,49.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/koniunktura/koniunktura/koniunktura-w-przetworstwie-przemyslowym-budownictwie-handlu-i-uslugach-2000-2021-maj-2021,4,49.html</guid>
+			<category>Publikacja</category>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5516/4/49/1/koniunkturamaj2021.jpg" type="image/jpeg" width="2486" height="3192">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5516/4/49/1/koniunkturamaj2021,k1uUwl-caFOE6tCTiHtf.jpg" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5516/4/49/1/koniunkturamaj2021,k1uUwl-caFOE6tCTiHtf.jpg" alt="" width="280" height="212"/></div>Ocena sytuacji przedsiębiorstw przemysłowych, budowlanych, handlowych i usługowych (z pogłębioną prezentacją wyników dla sekcji zakwaterowanie i gastronomia) uzyskana na podstawie subiektywnych ocen aktualnej i przewidywanej koniunktury gospodarczej wyrażonych przez dyrektorów ankietowanych firm.
+W styczniu, kwietniu, lipcu i październiku udostępniane są dane kwartalne w przetwórstwie przemysłowym. 
+W marcu i październiku udostępniane są dane z zakresu inwestycji w przetwórstwie przemysłowym i inwestycji w budownictwie]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Zakłady stacjonarne pomocy społecznej w 2020 roku]]></title>
+			<pubDate><![CDATA[Tue, 25 May 2021 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/warunki-zycia/ubostwo-pomoc-spoleczna/zaklady-stacjonarne-pomocy-spolecznej-w-2020-roku,18,5.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/warunki-zycia/ubostwo-pomoc-spoleczna/zaklady-stacjonarne-pomocy-spolecznej-w-2020-roku,18,5.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[Według stanu w dniu 31 grudnia 2020 r. na terenie całego kraju działało 1 851 zakładów stacjonarnych pomocy społecznej oraz 48 filii. Wszystkie zakłady posiadały łącznie 119,3 tys. miejsc. Przebywało w nich 105,2 tys. mieszkańców, w tym 49,9 tys. kobiet.]]></description>
+		</item>
+	</channel>
+</rss>
