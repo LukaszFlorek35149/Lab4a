@@ -1,10 +1,11 @@
-package pl.lublin.wsei.java.cwiczenia;
+package pl.lublin.wsei.java.cwiczenia.test;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class TestRegEx {
     public static void main(String[] args) {
+
         String exItem="<item>\n" +
                 "\t\t\t<title><![CDATA[Infografika - Dzień Matki 26 maja]]></title>\n" +
                 "\t\t\t<pubDate><![CDATA[Wed, 26 May 2021 10:03:00 +0200]]></pubDate>\n" +
@@ -16,13 +17,13 @@ public class TestRegEx {
                 "\t\t\t</media:content>\n" +
                 "\t\t\t<description><![CDATA[<div><img src=\"https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/112/1/1/dzien_matki_2021-01,k1uUwl-caFOE6tCTiHtf.png\" alt=\"\" width=\"280\" height=\"212\"/></div>]]></description>\n" +
                 "\t\t</item>";
+        Pattern pat = Pattern.compile("<title><!\\[CDATA\\[(.*)\\]\\]");
+        Matcher m = pat.matcher(exItem);
+        if(m.find())
+        {
+            System.out.println("Znaleziono tytuł: "+m.group(1));
+        }else
+            System.out.println("Nie znaleziono tytułu: ...");
     }
-//    Pattern pat = Pattern.compile("<title><!\\[CDATA\\[(.*)\\]]");
-//    Matcher m = pat.matcher(exItem);
-//    if(m.find())
-//        System.out.println("Znaleziono tytuł: "+m.group(1));
-//    else
-//        System.out.println("Nie znaleziono tytułu ...");
-
 
 }
