@@ -1,6 +1,5 @@
 package pl.lublin.wsei.java.cwiczenia;
 
-import javafx.beans.Observable;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.collections.FXCollections;
@@ -14,6 +13,8 @@ import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.stage.FileChooser;
+import javafx.application.HostServices;
+import javafx.stage.Stage;
 
 import java.io.File;
 
@@ -23,7 +24,21 @@ public class Controller {
     public ImageView imgMiniaturka;
     public Button btnPokazInfografike;
     public TextField txtAdresStrony;
-    public Button btnPrzejdzDoStrony;
+    public Button btnZaladujStrone;
+    private Infografika selInfografika;
+    private HostServices hostServices;
+    private Stage stage;
+
+    public void setStage(Stage stage)
+    {
+        this.stage=stage;
+    }
+
+    public void setHostServices(HostServices hostServices)
+    {
+        this.hostServices = hostServices;
+    }
+
 
     FileChooser fileChooser = new FileChooser();
     FileChooser.ExtensionFilter xmlFilter = new FileChooser.ExtensionFilter("Pliki XML (*.xml)","*.xml");
@@ -43,6 +58,7 @@ public class Controller {
                       int index = new_val.intValue();
                       if(index != -1)
                       {
+                          selInfografika = igList.infografiki.get(index);
                           txtAdresStrony.setText(igList.infografiki.get(index).adresStrony);
                           Image image = new Image(igList.infografiki.get(index).adresMiniaturki);
                           imgMiniaturka.setImage(image);
@@ -51,6 +67,7 @@ public class Controller {
                       {
                           txtAdresStrony.setText("");
                           imgMiniaturka.setImage(null);
+                          selInfografika = null;
                       }
                     }
                 }
@@ -71,5 +88,13 @@ public class Controller {
         else{
             IbFile.setText("Proszę wczytać plik");
         }
+    }
+
+    public void btnZaladujStrone(ActionEvent actionEvent) {
+        if(selInfografika != null)
+        {
+            hostServices.showDocument(selInfografika.adresStrony);
+        }
+
     }
 }
