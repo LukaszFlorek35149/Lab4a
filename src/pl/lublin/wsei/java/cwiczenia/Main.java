@@ -18,6 +18,7 @@ public class Main extends Application {
         FXMLLoader loader = new FXMLLoader(getClass().getResource("gusInfoGraphic.fxml"));
         Parent root = loader.load();
         Controller controller = loader.getController();
+
         controller.setHostServices(this.getHostServices());
         controller.setStage(primaryStage);
 

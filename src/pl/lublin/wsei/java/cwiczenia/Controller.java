@@ -24,7 +24,7 @@ public class Controller {
     public ImageView imgMiniaturka;
     public Button btnPokazInfografike;
     public TextField txtAdresStrony;
-    public Button btnZaladujStrone;
+    public Button btnPrzejdzDoStrony;
     private Infografika selInfografika;
     private HostServices hostServices;
     private Stage stage;
